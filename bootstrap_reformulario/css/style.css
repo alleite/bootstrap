@@ -1,0 +1,10 @@
+body{
+background-color: darkgray;
+}
+
+#titulo{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #1b1b22;
+}
